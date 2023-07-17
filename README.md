@@ -18,7 +18,7 @@ code文件夹下为源代码
 
 测试2：无解
 
-![image](https://github.com/PizzaDark/A-Maze-Generating-and-Solving-Tool-based-Qt/blob/main/image1.png)
+![image](https://github.com/PizzaDark/A-Maze-Generating-and-Solving-Tool-based-Qt/blob/main/image2.png)
 
 注：迷宫中白色为通路，黑色为障碍，绿为起点，红为终点
 
