@@ -1,4 +1,5 @@
 # A-Maze-Generating-and-Solving-Tool-based-Qt
+
 code文件夹下为源代码
 
 打包文件使用方法:
@@ -8,6 +9,16 @@ code文件夹下为源代码
 3.随机生成迷宫也可能无解
 4.显示结果会出现蓝色路径
 若迷宫无解，会出现提示
+
+
+
+测试1：找到解
+
+![image](https://github.com/PizzaDark/A-Maze-Generating-and-Solving-Tool-based-Qt/blob/main/image1.png)
+
+测试2：无解
+
+![image](https://github.com/PizzaDark/A-Maze-Generating-and-Solving-Tool-based-Qt/blob/main/image1.png)
 
 注：迷宫中白色为通路，黑色为障碍，绿为起点，红为终点
 
